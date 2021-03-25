@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaehyun-C
+- 👋 Hi, I’m @Jaehyun-C ( Choe Jae Hyub )
 - 👀 I’m interested in Data Engeenier
 - 🌱 I’m currently learning Scala, Java, DB
 - 💞️ I’m looking to collaborate on ...
